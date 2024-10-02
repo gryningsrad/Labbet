@@ -244,6 +244,7 @@ p img {
         flex-direction: column;
         align-items: center;
     }
+
     .navlinks {
         flex-direction: column;
     }
@@ -271,6 +272,8 @@ p img {
     .footer-column-left {
         padding: 10px 0px;
         flex-direction: column;
+    }
+    
     * {
         font-size: 10px;
     }
